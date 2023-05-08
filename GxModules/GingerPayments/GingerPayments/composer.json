@@ -1,0 +1,12 @@
+{
+    "name": "gingerpayments/gambio",
+    "version": "1.0.0",
+    "require": {
+        "gingerpayments/ginger-php": "^2.2"
+    },
+    "autoload": {
+        "psr-4": {
+            "GingerPayments\\Gambio\\": "Components"
+        }
+    }
+}
